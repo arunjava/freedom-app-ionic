@@ -1,0 +1,8 @@
+{
+  "name": "freedom-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "f3eb31c2"
+}
